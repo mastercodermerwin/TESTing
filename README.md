@@ -1,2 +1,2 @@
 # TEST
-[Click Me](javascript:alert('Uh oh...'))
+![Click Me](javascript:alert('Uh oh...'))
